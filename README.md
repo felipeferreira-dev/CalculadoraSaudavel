@@ -9,4 +9,4 @@
 - ``Java``
 - ``RecyclerView``
 
-Desenvolvido durante o curso "Android Express" do [Tiago Aguiar](https://github.com/tiago-aguiar).
+> Desenvolvido durante o curso "Android Express" do [Tiago Aguiar](https://github.com/tiago-aguiar).
